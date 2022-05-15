@@ -8,7 +8,9 @@ This is designed to hold a variety of tools showcased at <https://www.youtube.co
 
 ### Using the STL
 
-The STL file is ready-to-print and includes the gem insignia, just use your slicer/gcode generator of choice.  
+The STL file is ready-to-print and includes the gem insignia, just use your slicer/gcode generator of choice.
+
+### Using the OpenSCAD .scad file
 
 The scad file is designed to be opened using OpenSCAD <https://openscad.org/>, and allows you to modify the design to suit your own needs.  The gem logo is not included, but you can create your own SVG file and substitute it in where gemonly.svg lives in the source code.
 
