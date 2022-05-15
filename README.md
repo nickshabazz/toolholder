@@ -14,6 +14,10 @@ The STL file is ready-to-print and includes the gem insignia, just use your slic
 
 The scad file is designed to be opened using OpenSCAD <https://openscad.org/>, and allows you to modify the design to suit your own needs.  The gem logo is not included, but you can create your own SVG file and substitute it in where gemonly.svg lives in the source code.
 
+### Printing the toolholder
+
+You'll have to do this yourself.  No, I'd rather not print it for you, printing and shipping these takes too much time and I'd have to charge you far more than it's worth.  You can find plenty of companies that print stl files for you.
+
 ### Known issues
 
 - I could go with a tighter fit on the drivers, but not sure what kind of tolerance to expect.
