@@ -16,9 +16,13 @@ The scad file is designed to be opened using OpenSCAD <https://openscad.org/>, a
 
 ### Known issues
 
-- The Tweezer fit could be slightly better, and I should probably have a consistent diameter hole there.
-
 - I could go with a tighter fit on the drivers, but not sure what kind of tolerance to expect.
+
+### Version History
+
+- 1.1: Uploaded the version with the fixed tweezer holes because I'm not a brilliant man.
+
+- 1.0: Initial Public Release
 
 ### License
 
