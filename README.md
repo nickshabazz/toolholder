@@ -8,7 +8,7 @@ This is designed to hold a variety of tools showcased at <https://www.youtube.co
 
 ### Using the STL
 
-The STL file is ready-to-print and includes the gem insignia, just use your slicer/gcode generator of choice.
+The STL file is ready-to-print and includes the gem insignia, just use your slicer/gcode generator of choice.  The _large file also includes a place for Cotton Swabs and rubbing alcohol.
 
 ### Using the OpenSCAD .scad file
 
@@ -23,6 +23,8 @@ You'll have to do this yourself.  No, I'd rather not print it for you, printing 
 - I could go with a tighter fit on the drivers, but not sure what kind of tolerance to expect.
 
 ### Version History
+
+- 1.2: Rearranged some tools (details at https://youtu.be/xOsXOuTepNo) and introduced the _large version
 
 - 1.1: Uploaded the version with the fixed tweezer holes because I'm not a brilliant man.
 
