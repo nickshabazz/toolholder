@@ -4,7 +4,7 @@ A Gem of a Tool-Holder for keeping a variety of EDC gear disassembly tools at ha
 
 ### Tools
 
-This is designed to hold a variety of tools showcased at <https://www.youtube.com/watch?v=EapUzmSoLFA> and linked to on <nickshabazz.com/tools>.  Your toolage may vary.
+This is designed to hold a variety of tools showcased at <https://www.youtube.com/watch?v=EapUzmSoLFA> and linked to on http://nickshabazz.com/tools .  Your toolage may vary.
 
 ### Using the STL
 
