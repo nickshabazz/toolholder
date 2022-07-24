@@ -24,7 +24,7 @@ You'll have to do this yourself.  No, I'd rather not print it for you, printing 
 
 ### Version History
 
-- 1.2: Rearranged some tools (details at https://youtu.be/xOsXOuTepNo) and introduced the _large version
+- 2: Rearranged some tools (details at https://youtu.be/xOsXOuTepNo) and introduced the _large version
 
 - 1.1: Uploaded the version with the fixed tweezer holes because I'm not a brilliant man.
 
